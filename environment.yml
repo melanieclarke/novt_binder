@@ -5,4 +5,4 @@ dependencies:
   - python>=3.10
   - pip>=23.1
   - pip:
-    - jwst_novt
+    - jwst_novt[interact]
